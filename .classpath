@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="PrType_mvi/src"/>
+	<classpathentry kind="lib" path="mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="src" path=".vscode"/>
+	<classpathentry kind="src" path="PrType_mvi/lib"/>
+	<classpathentry kind="output" path="PrType_mvi/bin"/>
+</classpath>

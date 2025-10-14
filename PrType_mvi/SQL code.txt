@@ -1,0 +1,11 @@
+CREATE TABLE tktpgrm (
+    tkt_id INT AUTO_INCREMENT PRIMARY KEY,
+    C_nme VARCHAR(255) NOT NULL,
+    movie VARCHAR(255) NOT NULL,
+    prc DOUBLE NOT NULL,
+    seat VARCHAR(255) NOT NULL,
+    prty VARCHAR(255) NOT NULL
+);
+
+
+Note: name the database as "tiketa"
